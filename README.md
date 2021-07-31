@@ -7,3 +7,4 @@ To use the API
 1)clone the repository   
 2) npm i  
 3) npm start  
+4) Use Postman to check the working.
